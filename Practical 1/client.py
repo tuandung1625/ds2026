@@ -2,8 +2,8 @@ import socket
 import os
 import struct
 
-HOST = '172.25.224.1'
-PORT = 5000
+HOST = '127.0.0.1'
+PORT = 65432 
 BUFFER_SIZE = 1024
 
 def send_file(filepath):
