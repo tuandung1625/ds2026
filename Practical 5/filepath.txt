@@ -1,0 +1,7 @@
+/usr/local/bin/python3.8
+/etc/apache2/sites-available/default-ssl.conf
+/home/user/documents/report/practical-work-05-mapreduce-longest-path.pdf
+/var/log/syslog
+/opt/application/data/temp/cache
+/tmp/short
+/dev/pts/0
